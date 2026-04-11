@@ -140,4 +140,5 @@ Contributions are welcome! Please follow these steps:
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the MIT License - see the LICENSE file for details.
+
